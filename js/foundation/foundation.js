@@ -206,7 +206,7 @@
 
   /*
    * jquery.requestAnimationFrame
-   * https://github.com/gnarf37/jquery-requestAnimationFrame
+   * http://github.com/gnarf37/jquery-requestAnimationFrame
    * Requires jQuery 1.8+
    *
    * Copyright (c) 2012 Corey Frang
